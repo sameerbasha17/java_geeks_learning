@@ -9,6 +9,6 @@ public class long_DT {
 
         long a = 9223372036854775807l; // without "l" suffix it doesnot work 
         long b = 1;                    // it is similar to other integer types
-        System.out.println(a+b);
+        System.out.println(a+b);       // outputs -9223372036854775808
     }
 }
