@@ -8,8 +8,10 @@ public class pichhi01 {
         int a =scan.nextInt();
         if((int)a!=a)
         {
+        
             System.out.println("failed  "+a);
         }
+
         else{
             System.out.println("sucess  "+a);
         }
